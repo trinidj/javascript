@@ -12,7 +12,7 @@ if (hour < 10 || hour > 18 || isWeekend) {
 }
 
 /*
-  The OR operand evaluates each condition from left to right until it finds a truthy value, which is then returned. 
+  OR returns the first truthy value.
 */
 
 console.log(1 || 0); //* 1
