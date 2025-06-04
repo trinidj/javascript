@@ -21,3 +21,11 @@ if (checkAge(age)) {
 } else {
   console.log('Access Denied');
 }
+
+// Can return without a value
+function showMovie(age) {
+  if (!checkAge(age)) {
+    return;
+  }
+  console.log('Showing Movie');
+}
