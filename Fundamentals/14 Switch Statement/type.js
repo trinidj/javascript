@@ -15,3 +15,7 @@ switch (arg) {
   default:
     alert( 'An unknown value' );
 }
+
+/*
+  Using switch case has a strict equality checker. The values must be of the same data type.
+*/
