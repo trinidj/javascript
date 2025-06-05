@@ -13,5 +13,5 @@ let obj = {
   test: undefined,
 };
 
-console.log(obj.test);      //* undefined
+console.log(obj.test);      //* Output: undefined
 console.log("test" in obj); //* Output: true, property exists
