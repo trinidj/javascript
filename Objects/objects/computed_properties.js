@@ -17,9 +17,24 @@ let bag = {
 It is the same as:
 
 let fruit = prompt("Which fruit to buy?", "apple");
-let bag = {};
+let bag = {};/*
+
+The default value is apple.
+
+let bag = {
+  apple: 5
+};
+
+*/
 
 bag[fruit] = 5;
+/*
+
+The default value is apple.
+
+let bag = {
+  apple: 5
+};
 
 */
 
