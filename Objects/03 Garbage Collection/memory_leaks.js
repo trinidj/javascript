@@ -37,7 +37,7 @@ function createHandler() {
 
   const result = smallValue;
 
-  // Explicitely break the reference
+  // Explicitly break the reference
   massiveData = null;
 
   return function() {
@@ -48,7 +48,7 @@ function createHandler() {
 // Memory Leak 4: Out of DOM References
 let detachedElement;
 
-function createDeteachedNode() {
+function createDetachedNode() {
   const element = document.createElement('div');
 
   document.body.appendChild(element);
