@@ -1,4 +1,4 @@
-# JavaScript Object-to-Primitive Conversion
+# Object-to-Primitive Conversion
 
 ## Overview
 
