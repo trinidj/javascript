@@ -1,4 +1,4 @@
-# JavaScript Symbol Primitive Type
+# Symbol Primitive Type
 
 ## Overview
 
