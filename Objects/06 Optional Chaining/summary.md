@@ -1,4 +1,4 @@
-# JavaScript Optional Chaining Operator (`?.`)
+# Optional Chaining Operator (`?.`)
 
 ## Summary
 
