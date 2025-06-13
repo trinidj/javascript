@@ -15,6 +15,7 @@
 ## Getting Substrings
 - **slice()**: `str.slice(start, end)`
 - **substring()**: `str.substring(start, end)`
+- **substr()**: `str.substr(start, length)`
 
 ## Case Conversion
 - **toLowerCase()**: Convert to lowercase
